@@ -1,1 +1,1 @@
-const var =10
+const idade = 10
